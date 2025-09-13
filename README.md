@@ -1,3 +1,3 @@
 # f-strings
 
-<Button style="background='red'">test</Button>
+Click me[md.⏸️]
