@@ -1,3 +1,3 @@
 # f-strings
 
-<div style="Background='red'">test</div>
+<button style="background='red'">test</button>
