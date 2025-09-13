@@ -1,5 +1,5 @@
 # f-strings
 
-[watch this repo](https://github.com/user/repository/subscription)
+[Learning f-strings](https://www.geeksforgeeks.org/python/formatted-string-literals-f-strings-python/)
 
 
